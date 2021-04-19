@@ -1,4 +1,4 @@
-var socket = io("http://localhost:3000");
+var socket = io("https://trade-castroms.herokuapp.com");
 
 const TradeApi = {
     SessaoTrade: `${getParameterByName('session')}stats`,
