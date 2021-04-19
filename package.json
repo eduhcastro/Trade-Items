@@ -1,7 +1,7 @@
 {
-  "name": "panluckapi",
+  "name": "tradeitems",
   "version": "1.0.0",
-  "description": "Pan+ Luck API By CastroMS 2021",
+  "description": "CastroMS 2021",
   "main": "Start.js",
   "private": true,
   "pkg": {
@@ -235,7 +235,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Start.js"
   },
   "repository": {
     "type": "git",
