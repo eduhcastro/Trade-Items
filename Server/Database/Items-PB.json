@@ -1,0 +1,236 @@
+{
+  "Items": [
+    {
+      "id": 11,
+      "itemname": "KEEN ASTROGIRL",
+      "itemcount": 32,
+      "itemimg": "KEEN_ASTROGIRL.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 474
+    },
+    {
+      "id": 13,
+      "itemname": "OA 93 TECHNICOLOR",
+      "itemcount": 15,
+      "itemimg": "OA_93_Technicolor.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 162
+    },
+    {
+      "id": 14,
+      "itemname": "AUG A3 TECHNICOLOR",
+      "itemcount": 30,
+      "itemimg": "AUG_A3_TECHNICOLOR.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 775
+    },
+    {
+      "id": 15,
+      "itemname": "TACTILITE SPIDER",
+      "itemcount": 30,
+      "itemimg": "TACTILITE_SPIDER.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 894
+    },
+    {
+      "id": 16,
+      "itemname": "BUTTERFLY",
+      "itemcount": 30,
+      "itemimg": "BUTTERFLY_KNIFE.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 95
+    },
+    {
+      "id": 17,
+      "itemname": "KRISS CUPID",
+      "itemcount": 30,
+      "itemimg": "KRISS__Cupid.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 186
+    },
+    {
+      "id": 18,
+      "itemname": "TROCA RAPIDA",
+      "itemcount": 30,
+      "itemimg": "TROCA_RAPIDA.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 43
+    },
+    {
+      "id": 19,
+      "itemname": "CHEYTACM200 SPACE DELUXE",
+      "itemcount": 7,
+      "itemimg": "CHEYTACM200_Space_Deluxe.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 327
+    },
+    {
+      "id": 20,
+      "itemname": "TARANTULA MUAYTHAI",
+      "itemcount": 7,
+      "itemimg": "TARANTULA_MUAYTHAI.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 21,
+      "itemname": "ZOMBIE SLAYER Ghosthouse",
+      "itemcount": 7,
+      "itemimg": "ZOMBIE_SLAYER_Ghosthouse.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 22,
+      "itemname": "TACTILITE Technicolor",
+      "itemcount": 7,
+      "itemimg": "TACTILITE_Technicolor.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 23,
+      "itemname": "Cerberus Milkyway",
+      "itemcount": 7,
+      "itemimg": "Cerberus_Milkyway.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 24,
+      "itemname": "CHEYTACM200 Cupid",
+      "itemcount": 7,
+      "itemimg": "CHEYTACM200_Cupid.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 25,
+      "itemname": "CHEYTACM200 Digital",
+      "itemcount": 7,
+      "itemimg": "CHEYTACM200_Digital.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 26,
+      "itemname": "SC2010 Hallowen2018",
+      "itemcount": 7,
+      "itemimg": "SC_2010_Hallowen2018.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 27,
+      "itemname": "BUTTERFLY Space Deluxe",
+      "itemcount": 7,
+      "itemimg": "BUTTERFLY_KNIFE_Space_Deluxe.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 28,
+      "itemname": "M1887 Digital",
+      "itemcount": 7,
+      "itemimg": "M1887_Digital.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 29,
+      "itemname": "FACAOSSO Milkyway",
+      "itemcount": 7,
+      "itemimg": "FACA_OSSO_Milkyway.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 163
+    },
+    {
+      "id": 2,
+      "itemname": "AUG A3 HALLOWEEN 2019",
+      "itemcount": 30,
+      "itemimg": "AUG_A3_Hallowen2019.png",
+      "owneritem": "skillerm22",
+      "itemprice": 624
+    },
+    {
+      "id": 5,
+      "itemname": "ZOMBIE SLAYER HALLOWEN 2019",
+      "itemcount": 7,
+      "itemimg": "ZOMBIE_SLAYER_Hallowen2019.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 37
+    },
+    {
+      "id": 7,
+      "itemname": "BARRET PREMIUM",
+      "itemcount": 30,
+      "itemimg": "BARRET_PREMIUM.png",
+      "owneritem": "skillerm22",
+      "itemprice": 1228
+    },
+    {
+      "id": 6,
+      "itemname": "TACTILITE EVOSGALAXY",
+      "itemcount": 30,
+      "itemimg": "TACTILITE_EVOSGALAXY.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 668
+    },
+    {
+      "id": 1,
+      "itemname": "AUG A3 CUPID",
+      "itemcount": 30,
+      "itemimg": "AUG_A3_Cupid.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 985
+    },
+    {
+      "id": 4,
+      "itemname": "TAUUS 454ss MilkyWay",
+      "itemcount": 15,
+      "itemimg": "Taurus_454ss_Milkyway.png",
+      "owneritem": "skillerm22",
+      "itemprice": 64
+    },
+    {
+      "id": 10,
+      "itemname": "BUTTERFLY GHOSTHOUSE",
+      "itemcount": 7,
+      "itemimg": "BUTTERFLY_KNIFE_Ghosthouse.png",
+      "owneritem": "skillerm22",
+      "itemprice": 489
+    },
+    {
+      "id": 12,
+      "itemname": "KRISS DIGITAL",
+      "itemcount": 15,
+      "itemimg": "KRISS_Digital.png",
+      "owneritem": "skillerm22",
+      "itemprice": 112
+    },
+    {
+      "id": 8,
+      "itemname": "KRISS HALLOWEENN 2018",
+      "itemcount": 7,
+      "itemimg": "KRIS_Hallowen2018.png",
+      "owneritem": "skillerm22",
+      "itemprice": 106
+    },
+    {
+      "id": 3,
+      "itemname": "SC 2010 HALLOWEN 2019",
+      "itemcount": 30,
+      "itemimg": "SC_2010_Hallowen2019.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 722
+    },
+    {
+      "id": 9,
+      "itemname": "SC 2010 MILKYWAY",
+      "itemcount": 30,
+      "itemimg": "SC_2010_Milkyway.png",
+      "owneritem": "eduhcastro19",
+      "itemprice": 552
+    }
+  ]
+}

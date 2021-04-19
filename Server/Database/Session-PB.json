@@ -1,0 +1,24 @@
+{
+  "Sessions": [
+    {
+      "id": 1,
+      "sessionkey": "yKgyjt3jp6WT5ZQvUGWSvJmnCMu8c9r2",
+      "owner": "eduhcastro19",
+      "participant": null,
+      "online": 0,
+      "reconnect": false,
+      "ownerdone": false,
+      "participantdone": false
+    },
+    {
+      "id": 2,
+      "sessionkey": "4A5uNE0eQHutTr8KxrxHhCHWWwooYIyy",
+      "owner": "skillerm22",
+      "participant": null,
+      "online": 0,
+      "reconnect": false,
+      "ownerdone": false,
+      "participantdone": false
+    }
+  ]
+}

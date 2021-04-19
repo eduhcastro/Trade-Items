@@ -1,0 +1,14 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "login": "eduhcastro19",
+      "money": 9999999
+    },
+    {
+      "id": 2,
+      "login": "skillerm22",
+      "money": 650000
+    }
+  ]
+}
