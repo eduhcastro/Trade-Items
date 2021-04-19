@@ -24,6 +24,6 @@ require('./Server/Routes/Trade')(app, path, io, chalk, Getting, ClassPB)
 require('./Server/Socket')(io, chalk, Getting, ClassPB);
 
 
-http.listen(Number(process.env.PORT || 3000), function() {
-    console.log(`PORT: ${Number(process.env.PORT || 3000)}`);
+http.listen(Number(process.env.PORT || 80), function() {
+    console.log(`PORT: ${Number(process.env.PORT || 80)}`);
 });
