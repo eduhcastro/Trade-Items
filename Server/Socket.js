@@ -2,12 +2,12 @@ module.exports = function(io, chalk, Getting, ClassPB) {
     io.sockets.on('connect', function(socket) {
         var Stringg = socket.handshake.headers.referer
         try {
-            var Sessao = Stringg.split("http://localhost:3000/trade?session=")
+            var Sessao = Stringg.split("http://trade-castroms.herokuapp.com/trade?session=")
             var Splitado = Sessao[1].split("&user=")
             var SessaoCorreta = Splitado[0]
             var UsuarioCorreto = Splitado[1]
         } catch (e) {
-            var Sessao = Stringg.split("http://localhost:3000/trade?user=")
+            var Sessao = Stringg.split("http://trade-castroms.herokuapp.com/trade?user=")
             var Splitado = Sessao[1].split("&session=")
             var SessaoCorreta = Splitado[1]
             var UsuarioCorreto = Splitado[0]
