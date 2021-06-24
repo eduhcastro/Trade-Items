@@ -229,7 +229,7 @@
     "write-file-atomic": "^3.0.3",
     "ws": "^7.3.1",
     "xdg-basedir": "^4.0.0",
-    "xmlhttprequest-ssl": "^1.5.5",
+    "xmlhttprequest-ssl": "^1.6.2",
     "xtend": "^4.0.2",
     "yeast": "^0.1.2"
   },
