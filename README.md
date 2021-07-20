@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://lh3.googleusercontent.com/proxy/T4YAgrwXXav2D1hwX1pXLtF0Ir2gekBmYe7BYcDafT4IIWr7doJ_PB8jkZT_eVJ7zBaeeEIz11wEAg0t-p6kmNj8r6Ufs7g0BP-01JrhinEDg8YsEJmlMZBHXMMs5INAAg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/skillerm/Trade-Items">
+    <img src="https://www.freepngimg.com/thumb/business/63065-business-icons-sales-trade-computer-gmail.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Trade Items</h3>
@@ -59,7 +59,7 @@ User 1: https://trade-castroms.herokuapp.com/trade?session=yKgyjt3jp6WT5ZQvUGWSv
 
 User 2: https://trade-castroms.herokuapp.com/trade?session=yKgyjt3jp6WT5ZQvUGWSvJmnCMu8c9r2&user=skillerm22
 
-
+Preview: https://www.youtube.com/watch?v=Qt3DMaXTAH0
 
 <!-- CONTRIBUTING -->
 ## Contributing
