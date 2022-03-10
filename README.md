@@ -78,5 +78,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Eduardo Castro - [Facebook](https://www.facebook.com/eduhcm)
-CastroMS#8830 - [Discord]
+CastroMS#3430 - [Discord]
 
