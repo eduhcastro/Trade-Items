@@ -1,4 +1,4 @@
-var socket = io("https://trade-castroms.herokuapp.com");
+var socket = io("https://trade-items-production.up.railway.app");
 
 const TradeApi = {
     SessaoTrade: `${getParameterByName('session')}stats`,
